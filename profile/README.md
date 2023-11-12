@@ -9,7 +9,7 @@ At Yuuko Games, we are passionate about crafting captivating and thought-provoki
 - **Location:** Girona, Spain
 - **Website:** [yuukogamesstudio.github.io](https://yuukogamesstudio.github.io/)
 - **Contact:** yuukostudio@gmail.com
-- **Follow us on social media:** [@YuukoGames](https://twitter.com/YuukoGames) (X) | [Yuuko Games](https://www.instagram.com/yuukogames/) (Instagram)
+- **Follow us on social media:** [@YuukoGames](https://twitter.com/YuukoGames) (X) | [Yuuko Games](https://www.instagram.com/yuukogamesstudio/) (Instagram)
 
 ## Our Current Project - Echoes of Darkness
 
