@@ -11,7 +11,7 @@ At Yuuko Games, we are passionate about crafting captivating and thought-provoki
 - **Contact:** yuukostudio@gmail.com
 - **Follow us on social media:** [@YuukoGames](https://twitter.com/YuukoGames) (X) | [Yuuko Games](https://www.instagram.com/yuukogamesstudio/) (Instagram)
 
-## Our Current Project - Echoes of Darkness
+## Our Current Project - Codename: Echoes of Madness
 
 We are currently hard at work on our latest project, an immersive psychological horror story game that aims to challenge players' minds, evoke emotions, and create an unforgettable experience. The game is set in a hauntingly atmospheric world where players must navigate through intricate narratives, solve puzzles, and confront their deepest fears.
 
