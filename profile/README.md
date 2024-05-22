@@ -1,4 +1,4 @@
-# Yuuko Games - Psychological Horror Story Game
+# Yuuko Games - Homemade Videogames
 
 Welcome to the official GitHub repository for Yuuko Games, a game development studio based in Girona, dedicated to creating immersive psychological horror experiences. This README file will provide you with essential information about our studio, our ongoing project, and how you can get involved.
 
